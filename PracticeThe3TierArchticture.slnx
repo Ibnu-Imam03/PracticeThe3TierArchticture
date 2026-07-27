@@ -1,4 +1,5 @@
 <Solution>
+  <Folder Name="/Solution Items/" />
   <Project Path="../ContactBusinessLayer/ContactBusinessLayer.csproj" />
   <Project Path="../ContactsDataAccessLayer/ContactsDataAccessLayer.csproj" />
   <Project Path="ContactsConsolApp-Presention.csproj" />
